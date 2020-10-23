@@ -19,13 +19,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/shadmansahil]
-
 <!-- PROJECT LOGO 
 <br />
 <p align="center">
@@ -34,7 +27,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 -->
-  <h3 align="center">Sorting Movies</h3>
+  <h3 align="center">Sorting Movies according to IMDB ratings</h3>
 
   <p align="center">
     Second project of the Profit with JavaScript course. 
