@@ -7,7 +7,7 @@
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, IMDB-Movie-Rating, twitter_handle, email
+*** ShadmanSahil, IMDB-Movie-Rating, chowdhuryshadman52@gmail.com
 -->
 
 <!-- PROJECT SHIELDS -->
@@ -24,7 +24,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/shadmansahil]
 
 <!-- PROJECT LOGO 
 <br />
