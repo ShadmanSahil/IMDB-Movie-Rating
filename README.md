@@ -135,22 +135,3 @@ Project Link: [https://github.com/ShadmanSahil/IMDB-Movie-Rating](https://github
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/ShadmanSahil/IMDB-Movie-Rating
-[contributors-url]: https://github.com/ShadmanSahil
-/IMDB-Movie-Rating/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/ShadmanSahil/IMDB-Movie-Rating
-[forks-url]: https://github.com/ShadmanSahil
-/IMDB-Movie-Rating/network/members
-[stars-shield]: https://img.shields.io/github/stars/ShadmanSahil/IMDB-Movie-Rating
-[stars-url]: https://github.com/ShadmanSahil
-/IMDB-Movie-Rating/stargazers
-[issues-shield]: https://img.shields.io/github/issues/ShadmanSahil/IMDB-Movie-Rating
-[issues-url]: https://github.com/ShadmanSahil
-/IMDB-Movie-Rating/issues
-[license-shield]: https://img.shields.io/github/license/ShadmanSahil/IMDB-Movie-Rating
-[license-url]: https://github.com/ShadmanSahil
-/IMDB-Movie-Rating/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/shadmansahil
-[product-screenshot]: images/app.png
